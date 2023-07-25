@@ -66,4 +66,4 @@ Here are some of the key skills I've acquired and honed over the years:
 - LinkedIn: [Rajvardhan Patil](https://www.linkedin.com/in/rajvardhan-patil002)
 
 ## About GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RajPatil002&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RajPatil002&theme=dark)]
