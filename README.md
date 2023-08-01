@@ -12,7 +12,7 @@ I am deeply interested in mobile app development, and I enjoy exploring new tech
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Notes App](https://github.com/RajPatil25/notes-app-using-flutter-and-firebase).
+- 🔭 I’m currently working on [Notes App](https://github.com/RajPatil002/notes-app-using-flutter-and-firebase).
 - 🌱 I’m currently learning React Native.
 ## Skills
 
