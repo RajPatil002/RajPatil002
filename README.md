@@ -12,7 +12,7 @@ I am deeply interested in mobile app development, and I enjoy exploring new tech
 
 Here are some ideas to get you started:
 
-- 🔭 Recently completed [Super TicTacToe](https://github.com/RajPatil002/Super-TicTacToe).
+- 🔭 Recently completed [Super TicTacToe](https://github.com/RajPatil002/Super-TicTacToe-using-React-Native).
 - 🌱 I’m currently learning React Native.
 ## Skills
 
