@@ -12,8 +12,8 @@ I am deeply interested in mobile app development, and I enjoy exploring new tech
 
 Here are some ideas to get you started:
 
-- 🔭 Recently completed [Super TicTacToe](https://github.com/RajPatil002/Super-TicTacToe-using-React-Native).
-- 🌱 I’m currently learning React Native.
+- 🔭 Recently completed [Video Player](https://github.com/RajPatil002/R-player).
+- 🌱 I’m currently learning Flutter.
 ## Skills
 
 Here are some of the key skills I've acquired and honed over the years:
@@ -66,4 +66,4 @@ Here are some of the key skills I've acquired and honed over the years:
 - LinkedIn: [Rajvardhan Patil](https://www.linkedin.com/in/rajvardhan-patil002)
 
 ## About GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RajPatil002&theme=dark)]
+![](https://streak-stats.demolab.com/?user=RajPatil002&theme=dark)
