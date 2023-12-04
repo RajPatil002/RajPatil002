@@ -12,7 +12,7 @@ I am deeply interested in mobile app development, and I enjoy exploring new tech
 
 Here are some ideas to get you started:
 
-- 🔭 Recently completed [Video Player](https://github.com/RajPatil002/R-player).
+- 🔭 Currently working on [Video Player App](https://github.com/RajPatil002/R-player).
 - 🌱 I’m currently learning Flutter.
 ## Skills
 
