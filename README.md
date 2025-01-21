@@ -10,10 +10,7 @@ I am a dedicated and creative problem solver with a strong foundation in compute
 
 I am deeply interested in mobile app development, and I enjoy exploring new technologies and learning new programming languages.
 
-Here are some ideas to get you started:
 
-- 🔭 Currently working on [Video Player App](https://github.com/RajPatil002/R-player).
-- 🌱 I’m currently learning Flutter.
 ## Skills
 
 Here are some of the key skills I've acquired and honed over the years:
